@@ -1,3 +1,3 @@
 function myFunction() {
-  document.getElementById("demo").innerHTML = "You Hit Da Button!";
+  document.getElementById("demo").innerHTML = "Epic gamer moment gone wrong!";
 }
